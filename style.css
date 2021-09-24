@@ -26,3 +26,15 @@ marquee{
     font-family: fantasy;
     font-size: 20px;
 }
+.my_nav_bar{
+    top: 0px;
+    position:sticky;
+    z-index: 99999;
+}
+body{
+    text-align: center;
+    
+}
+#Buckman-Heights{
+   height: 800; 
+}
